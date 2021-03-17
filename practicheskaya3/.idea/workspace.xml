@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44484de5-88d3-4728-8c01-c842f8c251f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrays_mas6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrays_mas6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrвыбор/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrвыбор/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrвыбор2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrвыбор2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/mas_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/mas_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/vfs_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/vfs_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception4/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception4/file1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop14/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../loop14/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop14/src/loop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop14/src/loop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop_rec1/src/loop_tr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop_rec1/src/loop_tr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop_rec1/src/loop_vl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop_rec1/src/loop_vl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/SumPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/SumPR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/progresia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/progresia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/src/vvet14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/src/vvet14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/src/vvetv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/src/vvetv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z15.12/src/OdMas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z15.12/src/OdMas/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\10 класс\Java\practicheskaya3\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1psU9rTDrxBWJ8WmP32mWKLQ0vv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44484de5-88d3-4728-8c01-c842f8c251f0" name="Default Changelist" comment="" />
+      <created>1615971142917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615971142917</updated>
+    </task>
+    <servers />
+  </component>
+</project>
