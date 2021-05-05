@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bef061f-e64f-4002-a151-dd1b04b7492d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lesson12_3_aqua/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson12_3_aqua/Aquariumvolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson12_4_aqua/Aquarium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson12_4_aqua/AquariumVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrays_mas6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrays_mas6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrвыбор/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrвыбор/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/arrвыбор2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/arrвыбор2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/mas_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/mas_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../arrays/src/vfs_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../arrays/src/vfs_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/calculator/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/calculator/View.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Engine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../enCaps/src/encapsvv/Wheel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../enCaps/src/encapsvv/Wheel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception4/file1" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception4/file1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exception/src/exception5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exception/src/exception5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop14/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../loop14/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop14/src/loop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop14/src/loop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop_rec1/src/loop_tr/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop_rec1/src/loop_tr/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loop_rec1/src/loop_vl/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../loop_rec1/src/loop_vl/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/SumPR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/SumPR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package/src/pack1/progresia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../package/src/pack1/progresia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practicheskaya3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../practicheskaya3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/src/vvet14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/src/vvet14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vvetvlenie/src/vvetv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../vvetvlenie/src/vvetv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../z15.12/src/OdMas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../z15.12/src/OdMas/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="Z:\10 класс\Java\javafx\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1s6iXudfCFl3w7WXuQD6FRbKfxi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.AquariumVolume">
+    <configuration name="AquariumVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12_4_aqua.AquariumVolume" />
+      <module name="javafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson12_4_aqua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Aquariumvolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson12_3_aqua.Aquariumvolume" />
+      <module name="javafx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson12_3_aqua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AquariumVolume" />
+        <item itemvalue="Application.Aquariumvolume" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bef061f-e64f-4002-a151-dd1b04b7492d" name="Default Changelist" comment="" />
+      <created>1620199482504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620199482504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="995" y="261" key="#com.intellij.ide.util.MemberChooser" timestamp="1620200033605">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="995" y="261" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1620200033605" />
+    <state width="1353" height="210" key="GridCell.Tab.0.bottom" timestamp="1620205173355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1353" height="210" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1620205173355" />
+    <state width="1353" height="210" key="GridCell.Tab.0.center" timestamp="1620205173355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1353" height="210" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1620205173355" />
+    <state width="1353" height="210" key="GridCell.Tab.0.left" timestamp="1620205173355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1353" height="210" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1620205173355" />
+    <state width="1353" height="210" key="GridCell.Tab.0.right" timestamp="1620205173355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1353" height="210" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1620205173355" />
+    <state x="1136" y="370" key="com.intellij.ide.util.TipDialog" timestamp="1620199488186">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1136" y="370" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1620199488186" />
+  </component>
+</project>
